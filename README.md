@@ -477,7 +477,7 @@ Open-source, Chromium-based developer browser for macOS.
 - HTTPS-only mode and third-party cookie blocking
 - Chrome Web Store extension support
 
-## [<img src="https://raw.githubusercontent.com/lompendans/drift/main/icon-180.png" height=30 align=center /> Drift](https://lompendans.github.io/drift/)
+## [<img src="https://raw.githubusercontent.com/lompendans/drift/main/icon-180.png" height=30 align=center /> Drift](https://github.com/lompendans/drift)
 
 A calm, fast, open-source browser for Windows and Linux. Tabs down the side, a built-in ad blocker, and nothing in the way.
 
