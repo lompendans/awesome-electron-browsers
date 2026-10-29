@@ -46,7 +46,8 @@
 | [<img src="https://raw.githubusercontent.com/rhysd/Tilectron/e8e8c735b0a5f552a247db22acba7bd2ff2bb5e3/resources/tilectron.svg" height=30 align=center /> Tilectron](#-tilectron) |
 | [<img src="https://github.com/electron/electron/blob/main/default_app/icon.png?raw=true" height=30 align=center /> Turbo](#-turbo)                                               |
 | [<img src="https://github.com/octalmage/Ninja-Browser/blob/master/logo@2x.png?raw=true" height=30 align=center /> Ninja](#-ninja)                                                |
-| [<img src="https://raw.githubusercontent.com/YSamed/yalqen/main/design/brand/png/icon-256.png" height=30 align=center /> Yalqen](#-yalqen)                                       |
+| [<img src="https://raw.githubusercontent.com/YSamed/yalqen/main/design/brand/png/icon-256.png" height=30 align=center /> Yalqen](#-yalqen)        
+| [<img src="https://github.com/lompendans/drift/blob/main/icon-180.png" height=30 align=center /> Drift](#-beaker)       
 | [Contributors](#contributors)                                                                                                                                                    |
 | [Contributing](#contributing)                                                                                                                                                    |
 | [LICENSE](#license)                                                                                                                                                              |
